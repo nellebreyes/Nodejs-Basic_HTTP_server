@@ -1,3 +1,7 @@
 # Nodejs
-Nodejs Projects
-The SimpleHTTPServer app employs the basic http webserver by using the http module. This project contains routes.
+
+<b>This is a SimpleHTTPServer app</b>
+<ul>
+  <li>Employs the basic http webserver</li>
+  <li>Contains routes</li>
+</ul>
